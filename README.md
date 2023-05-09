@@ -12,8 +12,11 @@ group members will work separately on their object detection project.
 
 
 ✅ IMPORTANT:- ALWAYS PUSH YOUR WORK ON THE GITHUB.
+.
 ✅ TELL THE DESCRIPTION OF YOUR PROJECT ONCE YOU FIND YOUR PROJECT ON OBJECT DETECTION.
+.
 🚀 example-
+
 NAME = ARBAAZ
 PROJECT = FACE DETECTION
 DESCRIPTION = "...................."
