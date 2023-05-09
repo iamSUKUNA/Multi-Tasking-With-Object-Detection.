@@ -8,7 +8,7 @@ group members will work separately on their object detection project.
 3. KOMAL
 4. HARSH
 5. AMIT
-###################################################
+.
 
 
 ✅ IMPORTANT:- ALWAYS PUSH YOUR WORK ON THE GITHUB.
